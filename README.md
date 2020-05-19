@@ -30,4 +30,4 @@
   6 - após desaparecer a mensagem de 'Loading', é possível visualizar o response body do método, trazendo a lista de autores;
   
 
-  Obs.: Eu gravei um vídeo que está neste repositório, o nome do vídeo é 'Execucao_BackEnd'
+  Obs.: Eu gravei um vídeo demonstrando a execução e teste da API, o vídeo está neste repositório, o nome do vídeo é 'Execucao_BackEnd'.
