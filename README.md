@@ -12,6 +12,7 @@
 Obs.: a primeira execução provavelmente será mais lenta, pois será necessário a criação do banco de dados (criei um 
 mock de dados para já inserir os primeiros dados na tabela 'Autor').
 * A execução estará finalizada quando surgir a tela inicial do Swagger, expondo o método '/api/Autor/ObterAutoresAsync/'
+  
   Obs.: Neste momento é possível executar testes na API pelo próprio Swagger, por exemplo: 
   1- clicar no método 'ObterAutoresAsync';
   2- após executar o passo 1, surgirá do lado direito um botão chamado 'Try it out', clicar neste botão 'Try it out';
