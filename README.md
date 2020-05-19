@@ -9,8 +9,9 @@
 # Como executar:
 
 * Executar solução no Visual Studio (utilizei a versão 2019)
-Obs.: a primeira execução provavelmente será mais lenta, pois será necessário a criação do banco de dados (criei um 
-mock de dados para já inserir os primeiros dados na tabela 'Autor').
+
+  Obs.: a primeira execução provavelmente será mais lenta, pois será necessário a criação do banco de dados (criei um 
+  mock de dados para já inserir os primeiros dados na tabela 'Autor').
 * A execução estará finalizada quando surgir a tela inicial do Swagger, expondo o método '/api/Autor/ObterAutoresAsync/'
   
   Obs.: Neste momento é possível executar testes na API pelo próprio Swagger, seguindo os seguintes passos:
