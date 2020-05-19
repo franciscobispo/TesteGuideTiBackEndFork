@@ -1,10 +1,10 @@
-# BackEnd espeficicações:
-- WebAPI desenvolvido em .NET Core 3.1;
-- Modelagem padrão DDD (Domain Driven Design);
-- Projeto de testes chamado 'AutorTests';
-- Package 'Swagger' para exposição, documentação e testes nos métodos da API;
-- EntityFrameworkCore para persistência dos dados;
-
+| BackEnd espeficicações |
+| ------ |
+| WebAPI desenvolvido em .NET Core 3.1 |
+| Modelagem padrão DDD (Domain Driven Design) |
+| Projeto de testes chamado 'AutorTests' |
+| Package 'Swagger' para exposição, documentação e testes nos métodos da API |
+| EntityFrameworkCore para persistência dos dados |
 
 # Como executar:
 - Executar solução no Visual Studio (utilizei a versão 2019)
